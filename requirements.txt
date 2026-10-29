@@ -1,0 +1,18 @@
+# Python 3.11
+opendrift==1.14.10
+numpy
+pandas
+xarray
+netCDF4
+rasterio
+rioxarray
+geopandas
+shapely>=2.0
+pyproj
+scipy
+scikit-learn
+xgboost
+elapid
+shap
+matplotlib
+openpyxl
